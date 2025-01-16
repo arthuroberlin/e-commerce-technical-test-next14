@@ -1,19 +1,19 @@
-# TODO
+# E-commerce technical test Next 14
 
-**E-commerce test Technique NextJS 14 - Arthur Oberlin--Martins**
+👨🏻‍💻Projet E-commerce en **Next.js 14.2** avec une fausse api (https://fakestoreapi.com).
 
-## LIENS
+- ➡️ Route dynamique
+- ➡️ Panier dynamique ( ajustement du prix total, du nombre d'articles, de la liste des articles dans le panier... )
+- ➡️ Handling des erreurs via un système de notification
 
-1.  Live avec Vercel :
+Durée de la réalisation : 1 jour
 
-## Démarrer l'application
+## 🔗 LIEN LIVE
 
-1.  À la racine du dossier, ouvrir un terminal de commande et exécuter les commandes suivantes dans l'ordre.
+Version live (Vercel) : https://e-commerce-technical-test-next14.vercel.app/
 
-```bash
-npm i
+!["Screenshot de mon projet #1"](https://arthuroberlin.fr/github/e-commerce-technical-test-next14-1.png)
 
-#
+!["Screenshot de mon projet #1"](https://arthuroberlin.fr/github/e-commerce-technical-test-next14-2.png)
 
-npm run dev
-```
+!["Screenshot de mon projet #1"](https://arthuroberlin.fr/github/e-commerce-technical-test-next14-3.png)
